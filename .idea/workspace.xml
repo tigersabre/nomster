@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2521d5e0-9f85-43b7-a38d-42a044410476" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/views/devise/sessions/new.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/devise/sessions/new.html.erb" afterDir="false" />
-    </list>
+    <list default="true" id="2521d5e0-9f85-43b7-a38d-42a044410476" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
     <ignored path="$PROJECT_DIR$/public/system/" />
@@ -405,18 +403,17 @@
       <workItem from="1544060238369" duration="8748000" />
       <workItem from="1544228664200" duration="22258000" />
       <workItem from="1544592901301" duration="2160000" />
-      <workItem from="1544659929007" duration="4204000" />
+      <workItem from="1544659929007" duration="4519000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43890000" />
+    <option name="totallyTimeSpent" value="44205000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-47" y="-1141" width="1680" height="979" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1984127" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1984127" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
@@ -435,7 +432,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-      <window_info anchor="right" id="Terminal" order="4" visible="true" weight="0.3998779" />
+      <window_info active="true" anchor="right" id="Terminal" order="4" visible="true" weight="0.3998779" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
