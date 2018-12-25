@@ -3,6 +3,10 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 ruby '2.5.3'
 
+gem 'geocoder'
+
+gem 'figaro'
+
 gem 'devise'
 
 gem 'font-awesome-rails'
