@@ -6,6 +6,12 @@ class PlacesController < ApplicationController
     @pagy, @places = pagy(Place.all)
   end
 
+  def destroy
+    @place = Place.find(params[:id])
+    @place.destroy
+    redirect_to root_path
+  end
+
   def new
     @place = Place.new
   end
