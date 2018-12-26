@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2521d5e0-9f85-43b7-a38d-42a044410476" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/nomster.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/nomster.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/comment.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/comment.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/views/places/show.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/places/show.html.erb" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
@@ -54,7 +52,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Gemfile" value="124" />
-          <entry key="erb" value="3738" />
+          <entry key="erb" value="3772" />
           <entry key="js" value="45" />
           <entry key="rb" value="2432" />
           <entry key="scss" value="587" />
@@ -64,7 +62,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JavaScript" value="45" />
-          <entry key="RHTML" value="3738" />
+          <entry key="RHTML" value="3772" />
           <entry key="Ruby" value="2556" />
           <entry key="SCSS" value="587" />
           <entry key="YAML" value="85" />
@@ -86,8 +84,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/places/show.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="53" column="48" selection-start-line="53" selection-start-column="48" selection-end-line="53" selection-end-column="48" />
+            <state relative-caret-position="89">
+              <caret line="56" column="8" selection-start-line="56" selection-start-column="8" selection-end-line="63" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -440,12 +438,12 @@
       <workItem from="1544228664200" duration="22258000" />
       <workItem from="1544592901301" duration="2160000" />
       <workItem from="1544659929007" duration="10051000" />
-      <workItem from="1545690486926" duration="19260000" />
+      <workItem from="1545690486926" duration="20097000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68997000" />
+    <option name="totallyTimeSpent" value="69834000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-103" y="-1052" width="1840" height="1028" extended-state="0" />
@@ -731,8 +729,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/places/show.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="53" column="48" selection-start-line="53" selection-start-column="48" selection-end-line="53" selection-end-column="48" />
+        <state relative-caret-position="89">
+          <caret line="56" column="8" selection-start-line="56" selection-start-column="8" selection-end-line="63" selection-end-column="14" />
         </state>
       </provider>
     </entry>
