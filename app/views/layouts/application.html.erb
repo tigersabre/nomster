@@ -18,10 +18,13 @@
         <span class="navbar-toggler-icon"></span>
       </button>
 
-      <%= link_to 'Nomster', root_path, class: "navbar-brand" %>
+
 
       <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
         <ul class="navbar-nav mr-auto mt-2 mt-md-0">
+          <li class="nav-item active">
+            <%= link_to 'Nomster', root_path, class: "navbar-brand" %>
+          </li>
           <li class="nav-item active">
             <%= link_to new_place_path, class: 'nav-link' do %>
               <i class="fa fa-plus-circle"></i>
@@ -29,7 +32,7 @@
             <% end %>
           </li>
         </ul>
-        <ul class="nav-bar">
+        <ul class="navbar-nav">
           <% if user_signed_in? %>
             <li class="nav-item">
               <%= link_to 'My Profile', user_path(current_user), class: 'nav-link' %>
@@ -56,6 +59,6 @@
     <% end %>
 
     <%= yield %>
-    <br \><br \>
+    <br /><br />
   </body>
 </html>
